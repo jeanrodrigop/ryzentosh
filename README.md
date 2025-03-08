@@ -13,7 +13,7 @@
 
 **macOS version**: 15.0 Sequoia
 
-**OpenCore version**: 1.0.1
+**OpenCore version**: 1.0.4
 
 **SMBIOS**:  MacPro7,1
 
